@@ -3,7 +3,8 @@ var React = require('react');
 var Examples = (props) => {
     return(
         <div>
-            <h3>Welcome to examples page</h3>
+            <h3>Example</h3>
+            <p>Welcome to example page!</p>
         </div>
     )
 }
